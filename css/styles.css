@@ -1,0 +1,18 @@
+/* Selector = property: value; */
+
+body
+{
+  background-color:#252a34;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  color: #ff2e63;
+  border-width: 10px;
+  width: 6%
+}
+h1,h2,h3,h4,h5,h6,p,a,ul,ol,table
+{
+  color: #ff2e63;
+}
